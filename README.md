@@ -1,5 +1,7 @@
 <img src="https://github.com/lijinke666/lijinke666/blob/master/ysg.jpg" width="300"/>
 
+![visitor](https://visitor-badge.glitch.me/badge?page_id=lijinke666.lijinke666)
+
 - 网易云: [金珂珂珂](https://music.163.com/#/user/home?id=85987424)
 - 语雀: [博客](https://www.yuque.com/lijinke/blog)
 - 个人网站: [李金珂的小屋](https://www.lijinke.cn/)
