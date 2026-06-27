@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijinke666&label=Profile%20views&color=0e75b6&style=flat" alt="lijinke666" /> <img src="https://img.shields.io/github/stars/lijinke666?style=social&" alt="stars" /> <img src="https://img.shields.io/github/followers/lijinke666?color=%23ff4a4a&logoColor=%23fff&style=flat" alt="followers"/> </p>
 
+[![GitHub Roast](https://githubroast.icu/api/card/lijinke666)](https://githubroast.icu/u/lijinke666)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lijinke666" alt="lijinke666" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
