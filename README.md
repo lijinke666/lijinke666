@@ -1,6 +1,3 @@
-<h1 align="center" style="color:red">受投毒影响，本人 GitHub 密钥泄露，近期所有由我提交的 commit 均由投毒者恶意提交，非本人所为！请注意甄别！投毒者 NM$L</h1>
-<h1 align="center" style="color:red">Due to poisoning, my GitHub key was compromised. Recently, all the commits I submitted have been maliciously made by the poisoner, not by me! Please be cautious and verify! The fuck poisoner NM$L</h1>
-
 <h1 align="center">Hi 👋, I'm Jinke Li</h1>
 <h3 align="center">A frontend developer from China</h3>
 
